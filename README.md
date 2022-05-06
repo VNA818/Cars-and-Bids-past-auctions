@@ -21,7 +21,7 @@ Scraped using: https://chrome.google.com/webstore/detail/web-scraper-free-web-sc
 | 2001 Ferrari 360 Modena | ~13,900 Miles, 20-Year Current Owner, Service History Since New | Bid to $74,000 (Sold After) | 6/30/2021 | https://carsandbids.com/auctions/KPJBavq2/2001-ferrari-360-modena |
 | 1994 Pontiac Firebird Trans Am SLP Firehawk | ~6,200 Miles, 1 Owner Until 2021, 6-Speed Manual, Supercharged V8 Power | Cancelled | 3/2/2022 | https://carsandbids.com/auctions/KP8Qyqd2/1994-pontiac-firebird-trans-am-slp-firehawk |
 
-## Instructions
+## Scraping Instructions
 
 1. Install above Chrome extension
 2. Navigate to above Cars & Bids link
