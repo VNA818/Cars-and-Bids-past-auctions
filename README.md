@@ -1,6 +1,10 @@
 # Cars-and-Bids-past-auctions
 
+*CSV file containing information on all past auctions from Cars & Bids*
+
 ### Updated 5/3/2022
+
+**(Updated Periodically)** 
 
 Scraped from: https://carsandbids.com/past-auctions/ 
 
