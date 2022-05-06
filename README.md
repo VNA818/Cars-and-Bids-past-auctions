@@ -22,7 +22,7 @@ Scraped using: https://chrome.google.com/webstore/detail/web-scraper-free-web-sc
 1. Install above Chrome extension
 2. Navigate to above Cars & Bids link
 3. Go into developer tools in your browser & click on the "Web Scraper" tab
-4. Click on "Create new sitemap" -> "Import sitemap" and paste in the json from [data.csv](./Scraper/sitemap.json)
+4. Click on "Create new sitemap" -> "Import sitemap" and paste in the json from [sitemap.json](./Scraper/sitemap.json)
 5. Select the sitemap and click "Sitemap carsandbids" -> "Scrape" -> "Start scraping" 
 
 **Note: The Cars & Bids website must be fully zoomed out to show all cars on each page or else the listings will lazy load and the scraper will not work**
